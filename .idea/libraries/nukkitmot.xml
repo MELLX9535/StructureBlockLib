@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nukkitmot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../examples/nukkitmot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

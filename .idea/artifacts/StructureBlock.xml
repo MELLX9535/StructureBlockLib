@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StructureBlock">
+    <output-path>$PROJECT_DIR$/../artifacts</output-path>
+    <root id="archive" name="StructureBlock.jar">
+      <element id="module-output" name="StructureBlockLib" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
